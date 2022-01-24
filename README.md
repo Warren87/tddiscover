@@ -5,3 +5,9 @@
 
 2. Model C4
  * https://c4model.com/
+
+3. TDD na wyższych warstwach abstrakcji
+ * https://nordicapis.com/using-test-driven-development-for-microservices/
+
+4. Walking skeleton
+ * https://www.swiatprzywodztwa.pl/walking-skeleton-zwinne-realizowanie-projektow/
