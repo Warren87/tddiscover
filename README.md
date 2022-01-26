@@ -11,3 +11,6 @@
 
 4. Walking skeleton
  * https://www.swiatprzywodztwa.pl/walking-skeleton-zwinne-realizowanie-projektow/
+
+5. Event Storming
+ * https://radekmaziarka.pl/2018/12/06/event-storming-jak-szybko-odkrywac-nieznane/
